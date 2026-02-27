@@ -1,1 +1,3 @@
 Trying to practice with git bc I need to be able to mark it...
+
+print('hi Aurellius') but its a txt..
